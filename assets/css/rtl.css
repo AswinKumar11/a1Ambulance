@@ -22,7 +22,7 @@
 
 button.rtl {
   background: rgba(0, 0, 0, 0.90);
-  display: block;
+  display: none;
   text-indent: inherit;
   font-size: 12px;
   width: 50px;

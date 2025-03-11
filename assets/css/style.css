@@ -922,6 +922,7 @@ li {
 
 .switcher .switch_btn button {
     width: 50px;
+    display: none;
     height: 50px;
     color: #fff;
     line-height: 50px;
